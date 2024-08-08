@@ -10,12 +10,12 @@
 </p>
 
 <div align=center>
-  <h3>💎Skills💎</h3>
-    <img src="https://skillicons.dev/icons?i=python,django,flask,react,nextjs,vue,html,js,ts,css,nodejs,express,php,laravel,angular,java,ruby,blockchain,ai,ml,mysql,postgresql,mongodb,">
+  <h3>💎My Skills💎</h3>
+    <img src="https://skillicons.dev/icons?i=python,django,flask,react,nextjs,vue,html,js,ts,css,nodejs,express,php,laravel,symfony,angular,java,ruby,solidity,ai,mysql,postgresql,mongodb,git,docker,kubernetes,aws,gcp,azure">
 </div>
 
 <div align=center> 
-  <h2>Stats</h2>
+  <h2>My Stats</h2>
   <img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=algolia"></br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techguru536&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=techguru536&theme=algolia">
