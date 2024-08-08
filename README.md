@@ -3,10 +3,10 @@
     <a href="https://github.com/H-Builder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;7%2B%20years%20of%20coding%20experience;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
   </p>
 </h1>
-<h3 align="center">JavaScript/TypeScript(React.js/Next.js, Vue.js, Angular, Node.js/Express), Python(Flask, Django), PHP(Laravel, Symfony), Java(Spring Boot), C#(.Net), Ruby on Rails, Mobile(React Native, Flutter), Blockchain, AI, ML</h3>
+<h3 align="center">JavaScript/TypeScript(React.js/Next.js, Vue.js, Angular, Node.js/Express), Python(Flask, Django), PHP(Laravel, Symfony), Java(Spring Boot), C#(.Net), Ruby on Rails, Mobile(React Native, Flutter), Solidity/Blockchain</h3>
 
 <p align="center">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="400" />
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="697" height="400" />
 </p>
 
 <div align=center>
@@ -24,6 +24,6 @@
 </div>
 
 <div align=center>
-  <h2>👑Trophy👑</h2>
+  <h2>👑My Trophy👑</h2>
   <img src = "https://github-profile-trophy.vercel.app/?username=daynlight&theme=algolia&column=-1&rank=-?">
 </div>
