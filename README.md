@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">
-    <a href="https://github.com/H-Builder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;7%2B%20years%20of%20coding%20experience;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+    <a href="https://github.com/H-Builder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;10%2B%20years%20of%20coding%20experience;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
   </p>
 </h1>
 <h3 align="center">JavaScript/TypeScript(React.js/Next.js, Vue.js, Angular, Node.js/Express), Python(Flask, Django), PHP(Laravel, Symfony), Java(Spring Boot), C#(.Net), Ruby on Rails, Mobile(React Native, Flutter), Solidity/Blockchain</h3>
